@@ -3,6 +3,8 @@
 import os
 import sys
 
+# Right now the django project is on GITHUB
+
 
 def main():
     """Run administrative tasks."""
